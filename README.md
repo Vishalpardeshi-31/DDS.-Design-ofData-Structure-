@@ -1,1 +1,2 @@
-# dds
+# 📊🧠💻DDS.-Design-ofData-Structure-
+🔢📐⚙🔄
